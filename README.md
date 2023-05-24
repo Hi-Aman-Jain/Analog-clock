@@ -18,6 +18,5 @@ Feel free to customize the design, colors, or any other aspects of the clock to 
 
 Please note that this analog clock is designed for use in web browsers and may not function as expected if used in other environments.
 
-....___________________ ....
 Thank you for using the analog clock! Enjoy watching time pass in a classic and elegant way.
 
